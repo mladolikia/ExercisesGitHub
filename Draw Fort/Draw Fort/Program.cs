@@ -12,7 +12,7 @@ namespace Draw_Fort
         {
 
 
-            int n = int.Parse(Console.ReadLine());
+            //int n = int.Parse(Console.ReadLine());
             
             string a = new string('/', 1);
             string b = new string('^', n/2);
